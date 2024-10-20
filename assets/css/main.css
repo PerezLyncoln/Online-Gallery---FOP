@@ -7100,7 +7100,7 @@ input, select, textarea {
 		height: 100%;
 		outline: 0;
 		background-color: rgba(0, 0, 0, 0.75);
-		visibility: none;
+		visibility: hidden;
 		opacity: 0;
 		z-index: 0;
 	}
